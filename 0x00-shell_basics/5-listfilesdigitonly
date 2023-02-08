@@ -1,4 +1,5 @@
 #!/bin/bash
 ls -l /etc /bin
--n, --numeric-uid-gid
+id -u
+id -g
 ls -la ..
