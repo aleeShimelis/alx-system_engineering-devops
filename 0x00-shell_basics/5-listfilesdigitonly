@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -l /etc /bin
-id -u
-id -g
-ls -la ..
+ls -lan 
